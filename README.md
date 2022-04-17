@@ -3,11 +3,11 @@
 
 - 🥳 I graduated from Le Wagon's Web Development Bootcamp (Batch #751) in December 2021
 
-- 🔭 I’m currently working on [Guess The Scores](https://github.com/James-WR/GuessTheScore) and [Cakes 'n' Crumbs](https://github.com/James-WR/rails-airbnb-clone)
+- 🔭 I’m currently working on [Mercator Travel Maps](https://github.com/James-WR/mercator_travel)
 
-- 🌱 I’m currently learning **React and Ruby on Rails**
+- 🌱 I’m learning **React and Ruby on Rails**
 
-- 💬 Ask me about **Ruby and MVC**
+- 💬 Ask me about **Ruby, MVC, Javascript and chess ♟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
