@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A full-stack web developer from London</h3>
+<h3 align="center">A web developer from London</h3>
 
 - 🥳 I graduated from Le Wagon's Web Development Bootcamp (Batch #751) in December 2021
 
