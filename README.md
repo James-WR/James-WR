@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A web developer from London</h3>
 
-- 🥳 I graduated from Le Wagon's Web Development Bootcamp (Batch #751) in December 2021
+- 👨‍🏫 I am a lecturer and teacher at Le Wagon's Web Development Bootcamp
 
-- 🔭 I’m currently working on [Mercator Travel Maps](https://github.com/James-WR/mercator_travel)
+- 🔭 I’m currently working on [Trivia Time](https://github.com/James-WR/trivia-app) and [Mercator Travel Maps](https://github.com/James-WR/mercator_travel)
 
-- 🌱 I’m learning **React and Ruby on Rails**
+- 🌱 I’m learning **React and Typescript**
 
-- 💬 Ask me about **Ruby, MVC, Javascript and chess ♟**
+- 💬 Ask me about **Ruby, MVC, Javascript, Formula 1 🏎 and chess ♟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
